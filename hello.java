@@ -9,6 +9,7 @@ class WpromoteEmployee{
       this.age = age;
       this.name = name;
     }
+
     public void getEmployeeInformation(){
         System.out.println("Age: "+this.age+" Name: "+this.name);
     }
@@ -16,4 +17,5 @@ class WpromoteEmployee{
     public String getFoo(){
         return "foo";
     }
+
 }
