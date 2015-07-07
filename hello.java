@@ -17,5 +17,5 @@ class WpromoteEmployee{
     public String getFoo(){
         return "foo";
     }
-
+    // master pull
 }
