@@ -16,4 +16,5 @@ class WpromoteEmployee{
     public String getFoo(){
         return "foo";
     }
+    //addMore
 }
